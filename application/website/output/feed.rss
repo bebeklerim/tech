@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title />
+		<link>/tech.website.output</link>
+		<description />
+		<copyright>Copyright © 2021</copyright>
+		<pubDate>Sun, 26 Dec 2021 06:18:55 GMT</pubDate>
+		<lastBuildDate>Sun, 26 Dec 2021 06:18:55 GMT</lastBuildDate>
+		<item>
+			<title>مطلب نمونه</title>
+			<link>/tech.website.output/posts/sample</link>
+			<description>&lt;p&gt;اولین متن آزمایشی ما&lt;/p&gt;</description>
+			<guid isPermaLink="false">/tech.website.output/posts/sample</guid>
+			<pubDate>Wed, 12 Dec 2012 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;اولین متن آزمایشی ما&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+	</channel>
+</rss>

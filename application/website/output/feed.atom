@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>/tech.website.output</id>
+	<title />
+	<link rel="self" href="/tech.website.output" />
+	<rights>Copyright © 2021</rights>
+	<updated>2021-12-26T06:18:55Z</updated>
+	<entry>
+		<id>/tech.website.output/posts/sample</id>
+		<title>مطلب نمونه</title>
+		<link href="/tech.website.output/posts/sample" />
+		<updated>2012-12-12T00:00:00Z</updated>
+		<content>&lt;p&gt;اولین متن آزمایشی ما&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;اولین متن آزمایشی ما&lt;/p&gt;</summary>
+	</entry>
+</feed>
